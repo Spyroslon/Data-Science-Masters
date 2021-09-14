@@ -1,2 +1,7 @@
-# Data Science Masters
-Contains some of the courseworks that I have submitted during my studies
+# Reinforcement Learning Coursework Marks
+
+Assignment 1 = 20.00 / 20.00
+
+Assignment 2 = 28.40 / 40.00
+
+Group Project = 63.00 / 100.00 (Ideally, the report would contain some justification for the selected network structure as well as the parameters. The following section about rewards is not clear: “Initially, the rewards of the agent were set to be fixed as the game developed, but it was realised that the cumulative reward graph would remain a straight line which caused the agent to develop a strategy to immediately lose without performing any action, in order to maximise its reward. This was when it was decided to scale the rewards according to the score it achieved in the game. Figure 2 shows how the rewards for each action of the agent were offered.” Similarly, Figure 2 is not clear and needs a detailed figure caption. The most reasonable approach would be to reward the agent with the change in score since the last action. It is not clear why this straightforward approach has not been implemented. Also not clear: “Finally, another improvement that can be made is to better define the primitive actions of the agent. Theoretically the agent will be able to understand the state representation much better regarding on what action has given a positive or negative reward. This will consequently cause the agent to learn much faster resulting in faster training times.” Figure 3 is missing a legend so it is not possible to tell what the 3 lines are showing. The first plot is labeled “average_score” but the average of what, the report does not explain.)

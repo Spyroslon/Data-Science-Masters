@@ -1,0 +1,32 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,TirednessScore,TaskCompletionScore
+S801,,Sleeping,01/03/2021,23,Monday,00:00,09:00,540,2,2,
+UD415,,On phone,01/03/2021,23,Monday,09:00,09:30,30,1,1,
+ED145,,Breakfast,01/03/2021,23,Monday,09:30,10:00,30,2,1,
+EL642,,Studying and watching lectures,01/03/2021,23,Monday,10:00,15:00,300,0,3,3
+ED145,,Lunch,01/03/2021,23,Monday,15:00,15:30,30,2,3,
+UD415,L418,Playing on computer,01/03/2021,23,Monday,15:30,18:00,150,1,2,
+X893,L418,Going for a walk,01/03/2021,23,Monday,18:00,19:30,90,2,3,5
+UD415,,On phone,01/03/2021,23,Monday,19:30,20:00,30,0,2,
+ED145,,Dinner,01/03/2021,23,Monday,20:00,20:30,30,1,2,
+UD415,L418,Playing on computer,01/03/2021,23,Monday,20:30,23:00,150,1,4,
+R523,L418,Reading before sleep,01/03/2021,23,Monday,23:00,00:00,60,1,5,
+S801,,Sleeping,02/03/2021,23,Tuesday,00:00,10:00,600,1,3,
+UD415,,On phone to properly wake up,02/03/2021,23,Tuesday,10:00,10:30,30,0,2,
+ED145,,Breakfast,02/03/2021,23,Tuesday,10:30,11:00,30,1,2,
+H179,,Tidying house,02/03/2021,23,Tuesday,11:00,12:30,90,1,2,5
+EL642,,Studying and watching lectures,02/03/2021,23,Tuesday,12:30,14:30,120,0,2,3
+ED145,,Lunch,02/03/2021,23,Tuesday,14:30,15:00,30,2,1,
+CW982,,Working on courseworks,02/03/2021,23,Tuesday,15:00,20:30,330,1,4,4
+ED145,,Dinner,02/03/2021,23,Tuesday,20:30,21:00,30,2,3,
+UD415,L418,Playing on computer,02/03/2021,23,Tuesday,21:00,23:45,165,1,5,
+UD415,,On phone,02/03/2021,23,Tuesday,23:45,00:00,15,0,5,
+S801,,,03/03/2021,23,Wednesday,00:00,09:30,570,1,3,
+ED145,,Breakfast,03/03/2021,23,Wednesday,09:30,10:15,45,2,2,
+UD415,,On phone,03/03/2021,23,Wednesday,10:15,11:00,45,1,2,
+EL642,,Studying and watching lectures,03/03/2021,23,Wednesday,11:00,14:30,210,1,3,3
+ED145,,Lunch,03/03/2021,23,Wednesday,14:30,15:00,30,1,2,
+CW982,,Working on courseworks,03/03/2021,23,Wednesday,15:00,19:00,240,1,3,3
+UD415,,On phone,03/03/2021,23,Wednesday,19:00,19:45,45,1,3,
+ED145,,Dinner,03/03/2021,23,Wednesday,19:45,20:15,30,2,2,
+UD415,L418,Playing on computer,03/03/2021,23,Wednesday,20:15,23:30,195,1,4,
+UD415,,On phone,03/03/2021,23,Wednesday,23:30,00:00,30,0,5,

@@ -1,2 +1,6 @@
-# Data Science Masters
-Contains some of the courseworks that I have submitted during my studies
+# Applied Data Science 1 Coursework Marks
+lab 1 = 10/10
+
+lab 2 = 100/100
+
+Case Study 1 = 27/30

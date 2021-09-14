@@ -1,0 +1,41 @@
+Details of how to run the task 8 and 9 programs from the command line.
+----------------------------------------------------------------------
+Note: I have already provided the databases used for each task but if for any reason you want to reset a specific database create a copy of the initial_database.db and rename it to the appropriate filename.
+
+server uses server_database.db
+task8 uses task8_database.db
+task 9 uses task9_database
+
+
+task8_in.py
+
+- Change to the directory of the python script
+- Run the script using 'python task8_in.py CSVINPUT'. Where it says CSVINPUT add as an argument your desired csv filename in the format (filename.csv)
+eg. (python task8_in.py task8_in.csv)
+- Then press enter
+
+
+task8_out.py
+
+- Change to the directory of the python script
+- Run the script using 'python task8_out.py STARTINPUT ENDINPUT'. Where it says STARTINPUT add as an argument your desired starting date 
+in the format (yyyymmddhhmm). Where it says ENDINPUT add as an argument your desired end date in the format (yyyymmddhhmm)
+eg. (python task8_out.py 201906011200 201906021300)
+- Then press enter
+
+-----------------------------------------------------------------------
+
+task9_in.py
+
+- Change to the directory of the python script
+- Run the script using 'python task9_in.py CSVINPUT'. Where it says CSVINPUT add as an argument your desired csv filename in the format (filename.csv)
+eg. (python task9_in.py task9_in.csv)
+- Then press enter
+
+
+task9_out.py
+
+- Change to the directory of the python script
+- Run the script using 'python task9_out.py DATEINPUT'. Where it says DATEINPUT add as an argument your desired date in the format (yyyymmdd)
+eg. (python task9_out.py 20201127)
+- Then press enter
